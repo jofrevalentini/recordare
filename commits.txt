@@ -1,0 +1,42 @@
+commit 0d8468746cd73eab6b9dfa16495f8faab61e8ab3
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 24 10:14:24 2022 -0500
+
+    queseso
+
+commit 5983150973d8532b95bacd1b7a549192a1435f35
+Merge: 5beb89c be551c0
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 15:51:58 2022 -0500
+
+    Merge branch 'js'
+
+commit be551c02c4d52a5d24474cc71a84eb6313163a5f
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 15:43:42 2022 -0500
+
+    creando index.js
+
+commit 5beb89c9629a9d0b88aeda66511da9a92c416bfa
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 15:12:41 2022 -0500
+
+    Creando style.css
+
+commit 40a3b7155be855fecb5ecbdcead92aa5f02479b3
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 14:57:48 2022 -0500
+
+    Creando index.html
+
+commit 4ad774630d8e9c8e2330ee31e40f09ebca11b5e0
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Tue Nov 22 11:12:11 2022 -0500
+
+    otro mensaje
+
+commit db181e48e1013a3f1b65c229dc21ad7836d5b180
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Tue Nov 22 11:09:27 2022 -0500
+
+    nuevo commit
